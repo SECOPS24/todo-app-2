@@ -1,0 +1,13 @@
+{
+  "name": "todo-app-2",
+  "version": "1.0.0",
+  "description": "A simple Node.js web app for creating, completing and deleting todo items.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
